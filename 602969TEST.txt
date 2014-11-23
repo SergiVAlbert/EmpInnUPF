@@ -1,0 +1,48 @@
+1. Els vuit passos són:
+	1.-Self discovery: identificar els punts forts i febles d’un mateix.
+	2.-Identifying opportunities: identificar problemes, necessitats, desitjos no resolts, etc.
+	3.-Generating and eveluating ideas: proposar innovacions per a resoldre problemes.
+	4.-Planning: investigar i identificar els recursos per a desenvolupar el negoci (BM i BP).
+	5.-Raising start up capital: atreure inversors.
+	6.-Start-up: posar en funcionament el negoci, desenvolupar una base de clients.
+	7.-Growth: fer crèixer el negoci.
+	8.-Harvest: vendre el negoci o treure-hi profit.
+
+2. Es una estretègia o eina coneguda tambè com les 4 p’s, donat que en el seu origen anglosexor es coneix com:
+	- Product (products)
+	- Price (preu)
+	- Place (distribució)
+	- Promotion (promoció)
+
+	L’objectiu d’aquest an·lisis és conèixer la situació de l’empresa i poder desenvolupar una estrategia específica de posicionament posterior.
+
+3. Sector fa referència als compradors, és a dir als clients (les persones o organizacions), en canvi indústria fa referència als venedors (majoritàriament organitzacions) que ofereixen productes.
+
+4. Degut a que el model està representat mitjançant blocs que simbolitzen 9 elements de l’estructura del negoci, la seva interpretació resulta molt senzilla. Aquest fet fa que els possibles errors o incoherències siguin més fàcils de detectar (a simple  vista) i així poder corretgir-los. A més la seva elaboració resulta sistemàtica i molt mecànica.
+Existeixen altres alternatives com: Business reference model (model basat en els aspectes arquitectonics de l’activitat principal d’una empresa), Component business model (desenvolupat per IBM per modelar i analitzar una empresa), Industrialization of services business model (utilitzat per la gestió i els serveis de màrketing estratègic que tracta la prestació de serveis com un procès industrial).
+
+5. Com el seu nom indica, Customer Research es tracta de la investigació del client, és a dir, investigar sobre les preferències, motivacions i el seu comportament de compra, mitjançant l’observació directa, enquestes, entrevistes…etc.
+En canvi, el ‘Market size’ és la grandaria (mida) del mercat, Ès a dir, Ès la quantitat de diners i el nombre d’individus que són compradors i/o venedors del mercat al qual est‡ involucrat el producte/servei que vols llançar.
+
+6. Gràcies al MVP (Minimal Viable Product) podem rebre el feedback de l’usuari per tal de poder comprovar que el nostre model de negoci és el correcte, i del contrari, poder-lo corregir en funció de la resposta d’aquest. 
+
+7. 
+	1.-Brainstorming
+	2.-El joc dels 6 barrets
+	3.-Scamper
+
+8. El punt d’equilibri (BEP, Break-Even Point) representa la suma de vendes -de qualsevol de les unitats o termes d’ingressos- que es requereix per cobrir els costos totals (fixos+variables). Per tant, el benefici total en el punt d’equilibri és 0. 
+   És important realitzar-lo ja que es tracta d’un bon indicador de l’impacte de guanys d’una activitat de comercialització.
+
+9.  Per mi, innovació és identificar una oportunitat on cap altre persona ho ha fet.
+
+10. Els blocs que formen part del model canvas són:
+	- Proposició de valor (quins problemes i necessitats estem resolent/solventant?)
+	- Segmentació de clients (per a qui estem creant valor? Quins són els nostres millors clients?)
+	- Canals(com arribo als clients?) 
+	- Relació amb els clients (quin tipus de relació espera que nosaltres establim amb els nostres segments de clients?)
+	- Socis/Associació clau
+	- Activitats clau (processos)
+	- Recorsos clau
+	- Estructura de costos
+	- Font d’ingressos
